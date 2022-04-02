@@ -1,0 +1,20 @@
+{
+  "name": "ukrainian-stopwords",
+  "version": "1.0.0",
+  "description": "![stopwords.png](stopwords.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrSmile444/Ukrainian-Stopwords.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrSmile444/Ukrainian-Stopwords/issues"
+  },
+  "homepage": "https://github.com/DrSmile444/Ukrainian-Stopwords#readme"
+}
